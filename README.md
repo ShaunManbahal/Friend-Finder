@@ -1,3 +1,3 @@
 # Friend-Finder
 HWK Express node app heroku link:
-https://git.heroku.com/damp-meadow-51150.git
+https://stark-ravine-51846.herokuapp.com/
